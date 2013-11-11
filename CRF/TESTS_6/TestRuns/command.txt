@@ -1,0 +1,5 @@
+C:\Documents and Settings\Student\My Documents\Trunk\Code\Recognition\RunCRF\bin\Debug\RunCRF.exe -t -n 3 -l wgl.txt -o outputFile.tcrf -d "C:\Documents and Settings\Student\My Documents\Trunk\Code\Recognition\RunCRF\DataReady2"
+
+C:\Documents and Settings\Student\My Documents\Trunk\Code\Recognition\RunCRF\bin
+\Debug>RunCRF -c outputFile.tcrf -l wgl.txt -o outputFile3.xml 0268_3.1.1.switch
+ed.xml
